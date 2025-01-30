@@ -1,0 +1,11 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Other files to ignore
+*.log
+*.sqlite3
